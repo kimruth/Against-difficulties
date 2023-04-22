@@ -1,0 +1,61 @@
+* {
+  margin: 5%;
+  padding: 0;
+  max-width: 700px;
+  border-color: black;
+  justify-content: center;
+}
+
+html {
+  width: 90%;
+  border: solid;
+  border-color: black;
+  justify-content: center;
+}
+
+header {
+  justify-items: center;
+  text-align: center;
+  margin: 2%;
+  border: solid;
+  border-color: black;
+}
+header p {
+  padding: 2%;
+  align-items: center;
+}
+
+.assied {
+  position: relative;
+  display: flex;
+  gap: 2rem;
+  justify-content: center;
+  text-decoration-style: solid;
+  padding: auto;
+  margin: 3px;
+}
+.assied span {
+  display: flex;
+  position: 10;
+  border: solid;
+  border-color: black;
+  margin: 2%;
+  padding: 5%;
+}
+.assied p {
+  border: solid;
+  border-color: black;
+  padding: 30%;
+  margin: 2%;
+}
+
+footer {
+  margin: 0;
+}
+footer p {
+  justify-content: center;
+  padding: 2%;
+  border: solid;
+  border-color: black;
+  display: flex;
+}/*# sourceMappingURL=index.css.map */
